@@ -1,4 +1,4 @@
-/**
+﻿/**
  * The following program will compile and run, but it uses poor programming style.
  * Modify the program so that it uses the spelling conventions, constant naming
  * conventions, and formatting style recommended in this book.
