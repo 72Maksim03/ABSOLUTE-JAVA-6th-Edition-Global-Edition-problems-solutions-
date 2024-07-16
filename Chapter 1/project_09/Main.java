@@ -7,9 +7,9 @@
  * stores the number 3. Based on these values, calculate and output the ideal body weight.
  *
  * @author Maksim Petrosyan
- * */
+ */
 public class Main {
-    public static void main(String[] args){
+    public static void main(String[] args) {
         int heightFeet = 6;
         int heightInch = 3;
         int idealBodyWeight = ((heightFeet - 5) * 12 + heightInch) * 5 + 110;

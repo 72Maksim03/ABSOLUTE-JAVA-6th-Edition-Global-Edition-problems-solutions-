@@ -3,10 +3,10 @@
  * amount (princi_amnt) is $1000, the initial interest rate (int_rate) is 5.0%,
  * and the number of years (no_of_yrs) is 5. Use suitable data types to declare these
  * variables. Simple interest is calculated using the following equation:
- *  Simple interest = (Principal amount * Interest rate * Number of years)/100
- * */
+ * Simple interest = (Principal amount * Interest rate * Number of years)/100
+ */
 public class Main {
-    public static void main(String[] args){
+    public static void main(String[] args) {
         double principalAmount = 1000;
         double intRate = 5.0;
         int numOfYears = 5;

@@ -14,15 +14,16 @@
  * You may want to express the percent as the double value 0.001. (If your program
  * turns out not to use a defined constant, you may remove that defined constant
  * from your program.)
- * */
-import java.util.Scanner;
+ */
+
 public class Main {
     public static final double sweetenerToKill = 0.005;
     public static final double weightOfMouse = 0.2;
     public static final double initialWeight = 90;
     public static final double desiredWeight = 80;
     public static final double sweetenerInSoda = 0.001;
-    public static void main(String[] args){
+
+    public static void main(String[] args) {
         double lethalAmountForDieter = sweetenerToKill / weightOfMouse * desiredWeight;
         double limitofSoda = lethalAmountForDieter / sweetenerInSoda - 1;
         System.out.println("Allowed amount of soda is " + limitofSoda + "ml");

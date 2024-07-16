@@ -6,9 +6,9 @@
  * the program should output how many candy bars and gumballs you can get if
  * you spend all of your coupons on candy bars first, and any remaining coupons
  * on gumballs.
- * */
+ */
 public class Main {
-    public static void main(String[] args){
+    public static void main(String[] args) {
         int numberOfcoupons = 69;
         int numberOfCandyBars = numberOfcoupons / 10;
         int numberOfGumballs = (numberOfcoupons % 10) / 3;

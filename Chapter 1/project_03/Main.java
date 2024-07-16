@@ -5,13 +5,13 @@
  * latin rule of moving the first letter to the end of the word and adding “ay.” Output
  * the pig latin name to the screen. Use the substring and toUpperCase methods
  * to construct the new name.
- *  For example, given
- *  first = "walt";
- *  last = "savitch";
- *  the program should create a new string with the text “Altway Avitchsay” and print it.
- * */
+ * For example, given
+ * first = "walt";
+ * last = "savitch";
+ * the program should create a new string with the text “Altway Avitchsay” and print it.
+ */
 public class Main {
-    public static void main(String[] args){
+    public static void main(String[] args) {
         String first = "maksim";
         String last = "petrosyan";
         String result = first.substring(1, 2).toUpperCase() + first.substring(2) + first.charAt(0) + "ay "

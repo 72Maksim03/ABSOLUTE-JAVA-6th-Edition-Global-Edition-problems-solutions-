@@ -6,11 +6,12 @@
  * of coffee has approximately 160 mg of caffeine.
  *
  * @author Maksim Petrosyan
- * */
+ */
 public class Main {
     public static final int LETHAL_OVERDOSE = 10000;
     public static final int CAFFEINE_IN_COLA = 34;
     public static final int CAFFEINE_IN_COFFEE = 160;
+
     public static void main(String[] args) {
         int lethalNumOfCola = LETHAL_OVERDOSE / CAFFEINE_IN_COLA + 1;
         int lethalNumOfCoffee = LETHAL_OVERDOSE / CAFFEINE_IN_COFFEE + 1;
