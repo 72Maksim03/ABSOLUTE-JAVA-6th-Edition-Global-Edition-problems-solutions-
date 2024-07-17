@@ -23,7 +23,7 @@ public class Main {
         System.out.println("Enter the desired weight of the dieter (in kg)");
         double desiredWeight = sc.nextDouble();
         double lethalAmountForDieter = (artificialSweetener / mouseWeight) * desiredWeight;
-        double safeAmountOfSoda = lethalAmountForDieter / ARTIFICIAL_SWEETENER_IN_SODA;
+        int safeAmountOfSoda = (int) (lethalAmountForDieter / ARTIFICIAL_SWEETENER_IN_SODA);
         System.out.println("Safe amount of soda is " + safeAmountOfSoda);
     }
 }
