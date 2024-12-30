@@ -7,6 +7,12 @@ import java.util.Scanner;
  * might store the number of times 0 is the first digit (if that is possible in your data
  * set), count[1] might store the number of times 1 is the first digit, and so forth.
  * Redo Programming Project 3.15 using arrays.
+ * Write a program that tests Benford’s Law. Collect a list of at least 100 numbers
+ * from some real-life data source and enter them into a text file. Your program
+ * should use an array to store the digit counts. That is, count[0] might store the
+ * number of times 0 is the first digit (if that is possible in your data set), count[1]
+ * might store the number of times 1 is the first digit, and so forth. For each digit,
+ * output the percentage it appears as the first digit.
  *
  * @author Maksim Petrosyan
  * */
