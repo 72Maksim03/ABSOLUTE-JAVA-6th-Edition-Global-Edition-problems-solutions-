@@ -1,0 +1,104 @@
+37,833,000	Tokyo, Japan
+31,000,000	Delhi, India
+27,058,000	Shanghai, China
+22,043,000	São Paulo, Brazil
+20,411,000	Mumbai, India
+20,035,000	Beijing, China
+20,484,965	Cairo, Egypt
+21,005,860	Dhaka, Bangladesh
+21,782,378	Mexico City, Mexico
+19,222,665	Osaka, Japan
+16,093,786	Karachi, Pakistan
+15,872,179	Chongqing, China
+15,190,336	Istanbul, Turkey
+15,153,729	Buenos Aires, Argentina
+14,850,066	Kolkata, India
+14,368,332	Lagos, Nigeria
+14,342,439	Kinshasa, DRC
+13,923,452	Manila, Philippines
+13,589,078	Tianjin, China
+13,374,275	Rio de Janeiro, Brazil
+13,301,532	Guangzhou, China
+12,642,000	Lahore, Pakistan
+12,356,000	Shenzhen, China
+12,327,000	Bangalore, India
+12,538,000	Moscow, Russia
+11,503,293	Chennai, India
+11,167,000	Bogotá, Colombia
+11,142,000	Paris, France
+10,770,487	Jakarta, Indonesia
+10,555,000	Lima, Peru
+10,539,000	Bangkok, Thailand
+10,004,144	Hyderabad, India
+9,733,509	Seoul, South Korea
+9,571,596	Nagoya, Japan
+9,304,000	London, UK
+9,299,000	Chengdu, China
+8,505,000	Nanjing, China
+8,694,000	Tehran, Iran
+8,993,082	Ho Chi Minh City, Vietnam
+8,364,977	Wuhan, China
+8,069,000	Luanda, Angola
+8,059,000	Ahmedabad, India
+7,780,000	Kuala Lumpur, Malaysia
+8,336,817	New York City, USA
+7,482,000	Hong Kong, China
+7,645,000	Hangzhou, China
+7,538,200	Riyadh, Saudi Arabia
+7,434,000	Shijiazhuang, China
+7,112,808	Santiago, Chile
+7,103,000	Pune, India
+6,618,000	Madrid, Spain
+6,501,000	Xi'an, China
+6,197,000	Toronto, Canada
+6,961,000	Baghdad, Iraq
+6,339,000	Suzhou, China
+6,702,000	Dar es Salaam, Tanzania
+5,635,127	Johannesburg, South Africa
+5,685,807	Singapore, Singapore
+5,575,000	Barcelona, Spain
+3,979,576	Los Angeles, USA
+5,381,000	Alexandria, Egypt
+5,150,072	Ankara, Turkey
+5,058,000	Abidjan, Côte d'Ivoire
+5,002,466	Guadalajara, Mexico
+4,397,073	Nairobi, Kenya
+4,794,000	Addis Ababa, Ethiopia
+5,312,163	Sydney, Australia
+5,078,193	Melbourne, Australia
+4,618,000	Cape Town, South Africa
+4,336,000	Jinan, China
+4,253,000	Zhengzhou, China
+4,206,000	Changsha, China
+4,104,000	Kunming, China
+4,098,000	Shenyang, China
+3,849,000	Harbin, China
+2,646,204	Taipei, Taiwan
+3,352,000	Hefei, China
+3,721,000	Durban, South Africa
+3,204,726	Faisalabad, Pakistan
+3,000,000	Izmir, Turkey
+4,220,566	Montreal, Canada
+4,023,000	Recife, Brazil
+3,999,930	Fortaleza, Brazil
+3,953,290	Salvador, Brazil
+3,039,444	Brasília, Brazil
+4,276,475	Porto Alegre, Brazil
+3,769,504	Curitiba, Brazil
+2,530,701	Belo Horizonte, Brazil
+3,677,000	Campinas, Brazil
+2,219,580	Manaus, Brazil
+2,100,319	Belém, Brazil
+2,208,686	Goiânia, Brazil
+1,379,182	Guarulhos, Brazil
+1,108,975	São Luís, Brazil
+1,025,360	Maceió, Brazil
+1,353,713	Natal, Brazil
+864,845	Teresina, Brazil
+906,092	Campo Grande, Brazil
+817,511	João Pessoa, Brazil
+657,013	Aracaju, Brazil
+618,124	Cuiabá, Brazil
+539,354	Porto Velho, Brazil
+512,902	Macapá, Brazil
+407,319	Rio Branco, Brazil
