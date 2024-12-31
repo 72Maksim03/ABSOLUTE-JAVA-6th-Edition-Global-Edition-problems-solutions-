@@ -1,4 +1,12 @@
 import java.util.Scanner;
+/**
+ * Redo Programming Project 6.20 but this time create a class named Player that
+ * stores a player’s name and the player’s high score. The class should have suitable
+ * constructors, accessors, and mutators. Next create a single array of type Player
+ * that stores the players’ names and scores. Implement the same features as in Programming Project 6.20 using the single array rather than multiple arrays.
+ *
+ * @author Maksim Petrosyan
+ * */
 public class Main {
     public static void main(String[] args) {
         Player[] players = new Player[10];
