@@ -1,5 +1,13 @@
 import java.util.Arrays;
-
+/**
+ * Study the class java.util.Arrays from the Oracle documentation located at
+ * https://docs.oracle.com/javase/8/docs/api/java/util/Arrays.html. The sort method
+ * throws an IllegalArgumentException and an OutOfBoundsException. Write
+ * a short Java test program that sorts an array of integers and outputs the array elements in sorted order. Your program should catch both of the exceptions listed
+ * above. Modify your program to test that the exceptions are properly caught.
+ *
+ * @author Maksim Petrosyan
+ * */
 public class Main {
     public static void main(String[] args) {
         try {
