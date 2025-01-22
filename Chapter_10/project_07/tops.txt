@@ -1,0 +1,10 @@
+Player 3
+1500
+Player 3
+200
+Player 2
+150
+Player 1
+100
+Player 5
+10
